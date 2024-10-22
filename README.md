@@ -6,7 +6,7 @@ Date of the project : from end of October 2024 to end of December 2024
 Subject : the impact of climate change and human activities on puffins' populations. 
 
 Motivations : the common puffin (macareux moine en français) is a small bird from North Atlantic Ocean which breed in large colonies on costal cliffs or offshore islands. 
-![alt text]([https://islande24.fr/wp-content/uploads/2018/11/shutterstock_403375483.jpg])
+![puffin](https://islande24.fr/wp-content/uploads/2018/11/shutterstock_403375483.jpg)
 
 Databases : 
 
